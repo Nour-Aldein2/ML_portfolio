@@ -1,4 +1,4 @@
-![ML_portfolio/Titanic-kaggle/data_corr_defore_eng.png](https://github.com/Nour-Aldein2/ML_portfolio/blob/main/Titanic-kaggle/data_corr_defore_eng.png)?raw=true
+![ML_portfolio/Titanic-kaggle/data_corr_defore_eng.png](https://github.com/Nour-Aldein2/ML_portfolio/blob/main/Titanic-kaggle/data_corr_defore_eng.png "Data Correleation Before EDA")
 
 <div class="sc-dZeWys bbEMgC"><div class="markdown-converter__text--rendered"><h3>Overview</h3>
 <p>The data has been split into two groups:</p>
