@@ -1,6 +1,6 @@
 In this project we use enasmble learning (random forest classifier and logestic regression) to predict whether a passenger will servive or not based on the data listed in below. 
 
-Note: the next section that describes the data is barrowed from the competition [https://www.kaggle.com/competitions/titanic/data](main page).
+Note: the next section that describes the data is barrowed from the competition [main page](https://www.kaggle.com/competitions/titanic/data).
 
 <h2>Data</h2>
 
