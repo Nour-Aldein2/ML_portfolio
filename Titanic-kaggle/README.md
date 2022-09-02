@@ -75,7 +75,8 @@ Note: the next section that describes the data is barrowed from the competition 
 <h3>Data Correlation</h3>
 
 We can see the data correlation in the heatmaps below, where the first heat map shows the correlation before EDA, and the second one show the correlations after EDA and extracting new features:
-![ML_portfolio/Titanic-kaggle/data_corr_defore_eng.png](https://github.com/Nour-Aldein2/ML_portfolio/blob/main/Titanic-kaggle/data_corr_defore_eng.png "Data Correleation Before EDA")
+
+![Titanic-kaggle/data_corr_before_eng.png](https://github.com/Nour-Aldein2/ML_portfolio/blob/main/Titanic-kaggle/data_corr_defore_eng.png "Data Correleation Before EDA")
 
 
-![https://github.com/Nour-Aldein2/ML_portfolio/blob/main/Titanic-kaggle/data_corr_after_eng.png](https://github.com/Nour-Aldein2/ML_portfolio/blob/main/Titanic-kaggle/data_corr_defore_eng.png "Data Correleation After EDA")
+![Titanic-kaggle/data_corr_after_eng.png](https://github.com/Nour-Aldein2/ML_portfolio/blob/main/Titanic-kaggle/data_corr_after_eng.png "Data Correleation After EDA")
