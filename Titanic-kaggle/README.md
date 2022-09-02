@@ -72,5 +72,10 @@ Note: the next section that describes the data is barrowed from the competition 
 <h3>Variable Notes</h3>
 <p><b>pclass</b>: A proxy for socio-economic status (SES)<br> 1st = Upper<br> 2nd = Middle<br> 3rd = Lower<br><br> <b>age</b>: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5<br><br> <b>sibsp</b>: The dataset defines family relations in this way...<br> Sibling = brother, sister, stepbrother, stepsister<br> Spouse = husband, wife (mistresses and fiancés were ignored)<br><br> <b>parch</b>: The dataset defines family relations in this way...<br> Parent = mother, father<br> Child = daughter, son, stepdaughter, stepson<br> Some children travelled only with a nanny, therefore parch=0 for them.</p></div></div>
 
-Below, we can see how the features are correlated before EDA:
+<h3>Data Correlation</h3>
+
+We can see the data correlation in the heatmaps below, where the first heat map shows the correlation before EDA, and the second one show the correlations after EDA and extracting new features:
 ![ML_portfolio/Titanic-kaggle/data_corr_defore_eng.png](https://github.com/Nour-Aldein2/ML_portfolio/blob/main/Titanic-kaggle/data_corr_defore_eng.png "Data Correleation Before EDA")
+
+
+![https://github.com/Nour-Aldein2/ML_portfolio/blob/main/Titanic-kaggle/data_corr_after_eng.png](https://github.com/Nour-Aldein2/ML_portfolio/blob/main/Titanic-kaggle/data_corr_defore_eng.png "Data Correleation After EDA")
